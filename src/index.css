@@ -71,4 +71,13 @@ button {
 		background-size: 40%;
 		background-color: hsl(256, 26%, 20%);
 	}
+	.mobile-menu-bg {
+		background-color: hsl(270, 9%, 17%);
+		background: url("./images/bg-pattern-mobile-nav.svg"), hsl(270, 9%, 17%);
+		background-repeat: no-repeat;
+		background-position: bottom right;
+		background-size: 100%;
+		width: 100%;
+		display: none;
+	}
 }
