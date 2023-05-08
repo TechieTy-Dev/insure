@@ -1,0 +1,15 @@
+export { default as logo } from "./logo.svg";
+export { default as hamburger } from "./icon-hamburger.svg";
+export { default as close } from "./icon-close.svg";
+export { default as facebook } from "./icon-facebook.svg";
+export { default as instagram } from "./icon-instagram.svg";
+export { default as twitter } from "./icon-twitter.svg";
+export { default as pinterest } from "./icon-pinterest.svg";
+export { default as people } from "./icon-people-first.svg";
+export { default as snappy } from "./icon-snappy-process.svg";
+export { default as affordable } from "./icon-affordable-prices.svg";
+export { default as mobileHero } from "./image-intro-mobile.jpg";
+export { default as desktopHero } from "./image-intro-desktop.jpg";
+export { default as waves } from "./bg-pattern-intro-right-mobile.svg";
+export { default as waves2 } from "./bg-pattern-intro-left-desktop.svg";
+export { default as waves3 } from "./bg-pattern-intro-right-desktop.svg";
